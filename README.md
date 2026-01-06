@@ -21,4 +21,4 @@
 - Scikit-learn
 - Jupyter Notebook
 
-## ساختار پروژه
+
